@@ -1,5 +1,5 @@
 # cramers_linear_eq
-the flow of the code is as follows:
+
 Include necessary header files for input/output, string manipulation, vectors, and math operations
 Define a global vector unknown_values to store unique unknown values (variables)
 Create a class Indivisual to represent individual terms in an equation. This class initializes the term by extracting its coefficient, unknown value, and operator sign
